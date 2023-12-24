@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Computer Engineering at Faculty of Engineering, University of Sri Jayewardenapura
 <!--
 **DahamAdikari/DahamAdikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
