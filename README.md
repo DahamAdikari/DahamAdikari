@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dahamadikari&label=Profile%20views&color=0e75b6&style=flat" alt="dahamadikari" /> </p>
 
-- 🌱 I’m currently learning **C++, Java, Dart**
+- 🌱 I’m currently learning **C++, Java, Dart, Python**
 
 - 📫 How to reach me **daham0712@gmail.com**
 
