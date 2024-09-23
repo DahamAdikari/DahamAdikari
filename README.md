@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daham0712@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href = "https://www.linkedin.com/in/daham-t-adikari-ba48771ba/">Linkedin</h3>
 <p align="left">
 </p>
 
